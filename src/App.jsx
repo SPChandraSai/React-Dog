@@ -105,7 +105,13 @@ function App() {
             </div>
           </div>
         </section>
-        <section id='section-3'></section>
+        <section id='section-3'>
+          <div className="top">
+            <div className="left"></div>
+            <div className="right"></div>
+          </div>
+          <div className="bottom"></div>
+        </section>
       </main>
     </>
   )
